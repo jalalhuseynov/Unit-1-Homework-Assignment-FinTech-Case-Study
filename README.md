@@ -30,7 +30,7 @@ The main competitors of Shakepay are other cryptocurrency exchanges based in Can
 
 ## Results
 
-* Shapekay's major impact in Canadian Fintech industy is that they make it easy for Canadians to invest in cryptocurrencies Bitcoin and Ethereum. Since Shakepay's incorporation year - 2015, bticoin increased approximately 21300% in dollar value. Since Bitcoin and Ethereum are having their all time high prices these days, we could say that Shakepay is serving their mission succesfully: "Creating open access to building wealth"
+ Shapekay's major impact in Canadian Fintech industy is that they make it easy for Canadians to invest in cryptocurrencies Bitcoin and Ethereum. Since Shakepay's incorporation year - 2015, bticoin increased approximately 21300% in dollar value. Since Bitcoin and Ethereum are having their all time high prices these days, we could say that Shakepay is serving their mission succesfully: "Creating open access to building wealth"
 
 Cryptocurrency exchanges make a majority of their profits through exchange fees. However, Shakepay has a different approach. They are comission-free service. Shakepay describes itself as a local retail store that buys and sells goods. The main products are Ethereum and Bitcoin in Shakepay 'store'. They buy these cryptocurrencies from thier customers at relatively cheaper prices and resell them to earn a profit. The core metrics to measure success is their customers base and transaction volumes. The more customers using Shakepay and more volume of transactions ensures more profits. In terms of customers, Shakepay has over 800.000 customers which is approximately 2% of Canadians. At this time, there is no public information about company's financial performance. 
 
